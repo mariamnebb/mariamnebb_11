@@ -1,0 +1,84 @@
+.header-wrapper{
+    width: 100%;
+    height: 158px;
+    background-color: #191A19;
+    position: fixed;
+    align-items: center;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    ;
+
+}
+.header-div{
+   
+    width: 280px  ;
+    height: 44px;
+    padding-top: 55px;
+    left: 113px
+
+}
+.body{
+    height: 158px;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+    margin-left: 250px;
+    text-align: right;
+    margin-right: 44px;
+   
+}
+.ul{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+   }
+.li-header{
+    color:white;
+    size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    margin-right: 120px;
+    gap: 20px;
+    font-family: 'Poppins', sans-serif;
+    color:  #FFFFFF;
+    ;
+  }
+.li{
+   text-decoration: underline;
+   line-height: 36px;
+   size: 24px;
+   font-weight: 500;
+   color: #FF7420;
+    padding-left: 611px;
+    gap: 10px;
+font-family: 'Poppins', sans-serif;
+
+
+    
+
+}
+.right-div{
+    width: 383px;
+    height: 66px;
+    top: 44px;
+    left: 1233px;
+    border-radius: 15px
+
+}
+.english-button{
+    margin-left: 1233px;
+}
+.div-1sc{
+    width: 1728px;
+    height: 936px;
+    background-image: url(../images/photo_construction-workers-surveying-site\ 1.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
